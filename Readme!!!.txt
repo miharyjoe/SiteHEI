@@ -1,1 +1,1 @@
-Doit convertir les fichiers .txt avant de lancer l'index.html !!!
+Site de notre école à partir d'un template!!
